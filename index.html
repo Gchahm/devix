@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <title></title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <nav>
+    <a href="/" class="logo" data-i18n="meta.title"></a>
+    <ul class="nav-links">
+      <li><a href="#about" data-i18n="nav.about"></a></li>
+      <li><a href="#services" data-i18n="nav.services"></a></li>
+      <li><a href="#contact" data-i18n="nav.contact"></a></li>
+      <li><a href="/privacy" data-i18n="nav.privacy"></a></li>
+      <li>
+        <div class="lang-switcher">
+          <button data-lang="en">EN</button>
+          <button data-lang="pt">PT</button>
+        </div>
+      </li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <h1 data-i18n="hero.title"></h1>
+    <p data-i18n="hero.subtitle"></p>
+  </section>
+
+  <section id="about" class="about">
+    <h2 data-i18n="about.heading"></h2>
+    <p data-i18n="about.text"></p>
+  </section>
+
+  <section id="services" class="services">
+    <h2 data-i18n="services.heading"></h2>
+    <div class="services-grid" id="services-grid"></div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2 data-i18n="contact.heading"></h2>
+    <p data-i18n="contact.text"></p>
+    <div class="contact-details">
+      <span>
+        Email: <a data-i18n="contact.email" data-i18n-href="contact.email"></a>
+      </span>
+      <span data-i18n="contact.address"></span>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> <span data-i18n="meta.title"></span>. <span data-i18n="footer.rights"></span></p>
+  </footer>
+
+  <script src="/i18n.js"></script>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>

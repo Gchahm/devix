@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Devix",
+    "description": "Devix - Custom Software Development & IT Consulting"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "privacy": "Privacy Policy"
+  },
+  "hero": {
+    "title": "Custom Software Solutions for Your Business",
+    "subtitle": "We design, develop, and license software tailored to your needs, backed by expert IT consulting and training."
+  },
+  "about": {
+    "heading": "About Us",
+    "text": "Devix is a Brazilian software development company. We specialize in building custom and off-the-shelf software solutions, providing IT consulting, and delivering technology training to help businesses succeed in the digital landscape."
+  },
+  "services": {
+    "heading": "Our Services",
+    "items": [
+      {
+        "title": "Custom Software Development",
+        "description": "Tailored software solutions designed and built to meet your specific business requirements."
+      },
+      {
+        "title": "Software Licensing",
+        "description": "Development and licensing of both customizable and ready-made software products."
+      },
+      {
+        "title": "IT Consulting",
+        "description": "Strategic technology consulting to help your organization make informed decisions and optimize processes."
+      },
+      {
+        "title": "Technology Training",
+        "description": "Professional IT training programs to upskill your team and drive innovation."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "text": "Have a question or want to work with us? Get in touch.",
+    "email": "gustavo@chahm.dev",
+    "address": "Av. Carlos Gomes, 700, Sala 606, Andar 5, Boa Vista, Porto Alegre - RS, 90480-000, Brazil"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 28, 2026",
+    "sections": [
+      {
+        "heading": "1. Introduction",
+        "text": "Devix (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our applications and services."
+      },
+      {
+        "heading": "2. Information We Collect",
+        "text": "We may collect information that you provide directly to us, such as your name, email address, and any other information you choose to provide. We may also automatically collect certain information about your device, including your IP address, operating system, browser type, and usage data."
+      },
+      {
+        "heading": "3. How We Use Your Information",
+        "text": "We use the information we collect to provide, maintain, and improve our services; communicate with you about products, services, and events; monitor and analyze trends, usage, and activities; and detect, investigate, and prevent fraudulent transactions and other illegal activities."
+      },
+      {
+        "heading": "4. Sharing of Information",
+        "text": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy or as required by law. We may share information with service providers who assist us in operating our services."
+      },
+      {
+        "heading": "5. Data Security",
+        "text": "We implement appropriate technical and organizational measures to protect the security of your personal information. However, no method of transmission over the Internet or electronic storage is 100% secure."
+      },
+      {
+        "heading": "6. Your Rights",
+        "text": "Depending on your location, you may have certain rights regarding your personal information, including the right to access, correct, or delete your data. To exercise these rights, please contact us using the information provided below."
+      },
+      {
+        "heading": "7. Children's Privacy",
+        "text": "Our services are not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will take steps to delete it."
+      },
+      {
+        "heading": "8. Changes to This Policy",
+        "text": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the \"Last updated\" date."
+      },
+      {
+        "heading": "9. Contact Us",
+        "text": "If you have any questions about this Privacy Policy, please contact us at gustavo@chahm.dev."
+      }
+    ]
+  }
+}

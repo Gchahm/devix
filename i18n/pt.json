@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Devix",
+    "description": "Devix - Desenvolvimento de Software & Consultoria em TI"
+  },
+  "nav": {
+    "about": "Sobre",
+    "services": "Serviços",
+    "contact": "Contato",
+    "privacy": "Política de Privacidade"
+  },
+  "hero": {
+    "title": "Soluções de Software Sob Medida para o Seu Negócio",
+    "subtitle": "Projetamos, desenvolvemos e licenciamos software personalizado, com consultoria especializada em TI e treinamentos em tecnologia."
+  },
+  "about": {
+    "heading": "Sobre Nós",
+    "text": "A Devix é uma empresa brasileira de desenvolvimento de sistemas. Somos especializados na criação de soluções de software customizáveis e prontas para uso, consultoria em tecnologia da informação e treinamentos em informática para ajudar empresas a prosperar no cenário digital."
+  },
+  "services": {
+    "heading": "Nossos Serviços",
+    "items": [
+      {
+        "title": "Desenvolvimento de Software Sob Medida",
+        "description": "Soluções de software projetadas e desenvolvidas para atender às necessidades específicas do seu negócio."
+      },
+      {
+        "title": "Licenciamento de Software",
+        "description": "Desenvolvimento e licenciamento de programas de computador customizáveis e não-customizáveis."
+      },
+      {
+        "title": "Consultoria em TI",
+        "description": "Consultoria estratégica em tecnologia para ajudar sua organização a tomar decisões informadas e otimizar processos."
+      },
+      {
+        "title": "Treinamento em Tecnologia",
+        "description": "Programas profissionais de treinamento em informática para capacitar sua equipe e impulsionar a inovação."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Fale Conosco",
+    "text": "Tem uma dúvida ou quer trabalhar conosco? Entre em contato.",
+    "email": "gustavo@chahm.dev",
+    "address": "Av. Carlos Gomes, 700, Sala 606, Andar 5, Boa Vista, Porto Alegre - RS, 90480-000, Brasil"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: 28 de abril de 2026",
+    "sections": [
+      {
+        "heading": "1. Introdução",
+        "text": "A Devix (\"nós\", \"nosso\" ou \"nos\") está comprometida em proteger sua privacidade. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações quando você utiliza nossos aplicativos e serviços."
+      },
+      {
+        "heading": "2. Informações que Coletamos",
+        "text": "Podemos coletar informações que você nos fornece diretamente, como seu nome, endereço de e-mail e qualquer outra informação que você decida fornecer. Também podemos coletar automaticamente certas informações sobre seu dispositivo, incluindo endereço IP, sistema operacional, tipo de navegador e dados de uso."
+      },
+      {
+        "heading": "3. Como Usamos Suas Informações",
+        "text": "Utilizamos as informações coletadas para fornecer, manter e melhorar nossos serviços; comunicar-nos com você sobre produtos, serviços e eventos; monitorar e analisar tendências, uso e atividades; e detectar, investigar e prevenir transações fraudulentas e outras atividades ilegais."
+      },
+      {
+        "heading": "4. Compartilhamento de Informações",
+        "text": "Não vendemos, trocamos ou transferimos suas informações pessoais a terceiros sem seu consentimento, exceto conforme descrito nesta política ou quando exigido por lei. Podemos compartilhar informações com prestadores de serviços que nos auxiliam na operação dos nossos serviços."
+      },
+      {
+        "heading": "5. Segurança dos Dados",
+        "text": "Implementamos medidas técnicas e organizacionais adequadas para proteger a segurança das suas informações pessoais. No entanto, nenhum método de transmissão pela Internet ou armazenamento eletrônico é 100% seguro."
+      },
+      {
+        "heading": "6. Seus Direitos",
+        "text": "Dependendo da sua localização, você pode ter certos direitos em relação às suas informações pessoais, incluindo o direito de acessar, corrigir ou excluir seus dados. Para exercer esses direitos, entre em contato conosco utilizando as informações fornecidas abaixo."
+      },
+      {
+        "heading": "7. Privacidade de Crianças",
+        "text": "Nossos serviços não são direcionados a crianças menores de 13 anos. Não coletamos intencionalmente informações pessoais de crianças menores de 13 anos. Se tomarmos conhecimento de que coletamos tais informações, tomaremos medidas para excluí-las."
+      },
+      {
+        "heading": "8. Alterações a Esta Política",
+        "text": "Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos você sobre quaisquer alterações publicando a nova política nesta página e atualizando a data de \"Última atualização\"."
+      },
+      {
+        "heading": "9. Fale Conosco",
+        "text": "Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail gustavo@chahm.dev."
+      }
+    ]
+  }
+}
